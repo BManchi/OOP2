@@ -1,3 +1,4 @@
+package MasterChallenge;
 
 public class HealthyBurger extends Hamburger {
 

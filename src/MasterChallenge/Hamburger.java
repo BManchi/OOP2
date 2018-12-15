@@ -1,3 +1,4 @@
+package MasterChallenge;
 
 public class Hamburger {
     private String name;

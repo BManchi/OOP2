@@ -1,3 +1,4 @@
+package MasterChallenge;
 
 public class DeluxeBurger extends Hamburger {
     public DeluxeBurger() {
