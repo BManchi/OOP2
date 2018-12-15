@@ -1,4 +1,3 @@
-package Composition;
 
 public class HealthyBurger extends Hamburger {
 

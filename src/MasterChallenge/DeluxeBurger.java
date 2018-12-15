@@ -1,4 +1,3 @@
-package Composition;
 
 public class DeluxeBurger extends Hamburger {
     public DeluxeBurger() {

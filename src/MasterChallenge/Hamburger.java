@@ -1,4 +1,3 @@
-package Composition;
 
 public class Hamburger {
     private String name;
